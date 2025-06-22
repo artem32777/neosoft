@@ -1,20 +1,15 @@
-
 ## Тестовое задание в NeoSoft
 
 ### Текст задания
 https://docs.google.com/document/d/14JwOoKBJrNGjzdRMRsyXCCHVqjgxYnKUMAP-Wp_6IcA/edit?tab=t.0#heading=h.i7xalg82n1y6
 
-### Ссылка на GitHub Pages:
-
-
-## Комментарии
-При выполнении тестового я следовал тексту задания, но при самостоятельной реализации подобного кейса, я бы не использовал глобальный стор, так как он тут лишний, а если бы он всё таки был нужен, то использовал бы Pinia.
-
-Также я предпочёл бы использовать TailwindCSS вместо CSS/SCSS.
+### Превью:
+https://artem32777.github.io/saassoft/
 
 ### Запустить проект
 
 ```sh
+npm install
 npm run dev
 ```
 
